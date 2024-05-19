@@ -98,3 +98,13 @@ Barbas			ch300141	3756687913	Volcanic Island Camp
 Barkin			ch300693	364190466	Vernworth
 Barnham			ch300046	1653927012	Excavation Site
 Barton			ch300309	1166703429	Vernworth
+Bartred			ch300745	4006610444	Bakbattahl
+Bastian			ch300417	11232101	Vernworth
+Battla			ch300256	3796555590	Excavation Site
+Battrey			ch300220	1463154897	Flambearer Palace
+Bayern			ch300751	1394743469	Excavation Site
+Beatrice		ch300399	2874710935	Volcanic Island Camp
+Behn			ch300258	2706237301	Vernworth
+Benedict		ch300037	2263240892	Vernworth
+Benjamin		ch310036	1766073404	Bakbattahl
+Benthe			ch300574	1842512356	Flambearer Palace
