@@ -16,3 +16,9 @@ Aelia			ch300838	3305705070	Wandering
 Aella			ch300746	3889431281	Bakbattahl
 Agathe			ch300260	142723282	Vernworth
 Agrael			ch300589	1011717458	Sacred Arbor
+Agricio			ch300712	1722532600	Melve
+Aguilera		ch300722	918543986	Vernworth
+Ahdnel			ch300042	4069011432	Excavation Site
+Aimee			ch300150	2889201289	Vernworth
+Aisha			ch300110	3478964779	Vernworth
+Aizam			ch300146	2787561375	Harve
