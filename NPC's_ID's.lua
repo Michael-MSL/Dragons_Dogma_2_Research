@@ -28,3 +28,9 @@ Akram			ch300515	1070134065	Bakbattahl
 Albert			ch310045	2696546033	Vernworth
 Alcott			ch300226	1801129436	Borderwatch Outpost
 Alessa			ch300639	469508691	Wandering
+Alex			ch300308	1760983056	Vernworth
+Alexander		ch300201	4054130031	Vernworth
+Alexandra		ch300557	3881568021	Bakbattahl
+Alexei			ch300484	301358386	Bakbattahl
+Alexia			ch300386	2497895708	Bakbattahl
+Alezio			ch300511	3770449310	Bakbattahl
