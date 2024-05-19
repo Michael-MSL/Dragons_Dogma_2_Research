@@ -60,3 +60,13 @@ Anphina			ch300800	3379678252	Vernworth
 Anthony			ch300182	1375808479	Borderwatch Outpost
 Antonio			ch300367	1966695602	Bakbattahl
 Anya			ch300808	3070063807	Vernworth
+Archibald		ch300565	1694369965	Flambearer Palace
+Arclad			ch300725	3420983920	Borderwatch Outpost
+Ariadne			ch300356	2872864050	Vernworth
+Arkholtz		ch300741	4256595021	Bakbattahl
+Arkus			ch300685	3373190265	Vernworth
+Arletta			ch300667	3461530750	Wandering
+Arno			ch300420	1160559588	Vernworth
+Arnold			ch300027	2237419475	Vernworth
+Asam			ch300479	3253440311	Bakbattahl
+Asgard			ch300797	529598413	Vernworth
