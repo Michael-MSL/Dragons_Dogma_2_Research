@@ -88,3 +88,13 @@ Aveline			ch300491	2846458161	Bakbattahl
 Avlan			ch300782	1265124485	Borderwatch Outpost
 Awaran			ch300395	846497722	Bakbattahl
 Azell			ch300477	1961301161	Bakbattahl
+Azorka			ch300690	3274698813	Vernworth
+Azula			ch300735	1378290564	Vernworth
+Bahram			ch300352	2370715819	Wandering
+Bakhtiar		ch300812	2484067803	Wandering
+Bakr			ch300546	574507009	Bakbattahl
+Banford			ch300713	2352199842	Melve
+Barbas			ch300141	3756687913	Volcanic Island Camp
+Barkin			ch300693	364190466	Vernworth
+Barnham			ch300046	1653927012	Excavation Site
+Barton			ch300309	1166703429	Vernworth
