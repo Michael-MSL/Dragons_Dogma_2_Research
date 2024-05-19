@@ -34,3 +34,9 @@ Alexandra		ch300557	3881568021	Bakbattahl
 Alexei			ch300484	301358386	Bakbattahl
 Alexia			ch300386	2497895708	Bakbattahl
 Alezio			ch300511	3770449310	Bakbattahl
+Alfred			ch300245	3609031674	Excavation Site
+Algard			ch300704	1952344001	Melve
+Allard			ch310000	2601185669	Vernworth
+Alois			ch300156	3719288234	Vernworth
+Alphonse		ch300628	4134951879	Wandering
+Alque			ch300384	3916691380	Bakbattahl
