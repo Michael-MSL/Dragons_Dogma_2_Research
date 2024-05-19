@@ -40,3 +40,12 @@ Allard			ch310000	2601185669	Vernworth
 Alois			ch300156	3719288234	Vernworth
 Alphonse		ch300628	4134951879	Wandering
 Alque			ch300384	3916691380	Bakbattahl
+Alsa			ch300002	3893680371	Checkpoint Rest Town
+Altanna			ch300652	1733740457	Wandering
+Amanda			ch300443	1607848835	Vernworth
+Ambrosius		ch310077	3463222861	Flambearer Palace
+Amelia			ch300492	3110811544	Bakbattahl
+Amie			ch300465	83378795	Vernworth
+Amir			ch300507	1442373486	Bakbattahl
+Amr			ch300262	645936823	Melve
+Amras			ch300583	1775096940	Sacred Arbor
