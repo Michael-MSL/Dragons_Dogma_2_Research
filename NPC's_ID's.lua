@@ -49,3 +49,14 @@ Amie			ch300465	83378795	Vernworth
 Amir			ch300507	1442373486	Bakbattahl
 Amr			ch300262	645936823	Melve
 Amras			ch300583	1775096940	Sacred Arbor
+Amritta			ch300379	3210490735	Melve
+Anastasia		ch300677	4159014467	Vernworth
+Andre			ch300041	3941483108	Excavation Site
+Anemone			ch300744	1771836076	Bakbattahl
+Angus			ch300644	3564698337	Wandering
+Annabel			ch300553	494115917	Bakbattahl
+Annette			ch300423	3208322964	Vernworth
+Anphina			ch300800	3379678252	Vernworth
+Anthony			ch300182	1375808479	Borderwatch Outpost
+Antonio			ch300367	1966695602	Bakbattahl
+Anya			ch300808	3070063807	Vernworth
