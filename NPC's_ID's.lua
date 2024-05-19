@@ -108,3 +108,13 @@ Behn			ch300258	2706237301	Vernworth
 Benedict		ch300037	2263240892	Vernworth
 Benjamin		ch310036	1766073404	Bakbattahl
 Benthe			ch300574	1842512356	Flambearer Palace
+Benton			ch310047	4031770774	Vernworth
+Beralta			ch300500	209217475	Bakbattahl
+Beren			ch310016	4006438697	Borderwatch Outpost
+Berkut			ch300297	3843282439	Vernworth
+Bermudo			ch310010	663264662	Wandering
+Bernall			ch300026	916963396	Vernworth
+Bernstein		ch300697	3732488045	Harve
+Bertha			ch300088	3363595156	Volcanic Island Camp
+Bertil			ch300699	4078097338	Melve
+Bertran			ch300508	3359969029	Bakbattahl
