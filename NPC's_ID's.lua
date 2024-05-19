@@ -79,3 +79,12 @@ Atharv			ch300566	1046020136	Flambearer Palace
 Auclair			ch300903	415736764	Checkpoint Rest Town
 Audra			ch300827	4285244332	Wandering
 Augustin		ch310039	419651890	Flambearer Palace
+Aurelia			ch300832	4034865549	Wandering
+Aurelio			ch300655	1120494611	Wandering
+Aurgie			ch300463	469516371	Vernworth
+Auriol			ch300090	4207487022	Vernworth
+Austin			ch300439	783156902	Vernworth
+Aveline			ch300491	2846458161	Bakbattahl
+Avlan			ch300782	1265124485	Borderwatch Outpost
+Awaran			ch300395	846497722	Bakbattahl
+Azell			ch300477	1961301161	Bakbattahl
