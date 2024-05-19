@@ -22,3 +22,9 @@ Ahdnel			ch300042	4069011432	Excavation Site
 Aimee			ch300150	2889201289	Vernworth
 Aisha			ch300110	3478964779	Vernworth
 Aizam			ch300146	2787561375	Harve
+Akakios			ch300140	4097835434	Bakbattahl
+Akheem			ch300036	1197604036	Vernworth
+Akram			ch300515	1070134065	Bakbattahl
+Albert			ch310045	2696546033	Vernworth
+Alcott			ch300226	1801129436	Borderwatch Outpost
+Alessa			ch300639	469508691	Wandering
