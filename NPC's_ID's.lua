@@ -70,3 +70,12 @@ Arno			ch300420	1160559588	Vernworth
 Arnold			ch300027	2237419475	Vernworth
 Asam			ch300479	3253440311	Bakbattahl
 Asgard			ch300797	529598413	Vernworth
+Ashe			ch300133	1739332021	Wandering
+Ashleigh		ch300452	2632727050	Vernworth
+Assam			ch300757	3310458131	Excavation Site
+Astia			ch300900	630787608	Melve
+Astona			ch300575	192779860	Flambearer Palace
+Atharv			ch300566	1046020136	Flambearer Palace
+Auclair			ch300903	415736764	Checkpoint Rest Town
+Audra			ch300827	4285244332	Wandering
+Augustin		ch310039	419651890	Flambearer Palace
