@@ -167,3 +167,12 @@ Centina			ch300648	1078095367	Wandering
 Cesaire			ch300727	3886118731	Borderwatch Outpost
 Cesar			ch300089	1517696665	Volcanic Island Camp
 Chandler		ch300387	36454432	Harve
+Chantie			ch300425	2074102591	Vernworth
+Chaque			ch300383	1149238594	Vernworth
+Charley			ch300310	2509455584	Vernworth
+Charlotte		ch300190	3118290474	Vernworth
+Chelsea			ch300555	2953481569	Bakbattahl
+Chloe			ch300560	1558004193	Bakbattahl
+Christina		ch300913	1416954785	Checkpoint Rest Town
+Clara			ch300558	3088422882	Bakbattahl
+Clarence		ch300543	1030769204	Bakbattahl
