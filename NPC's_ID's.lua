@@ -151,3 +151,11 @@ Bruno			ch310054	220028531	Checkpoint Rest Town
 Burnns			ch300461	1076807512	Vernworth
 Cadmia			ch300932	2981056509	Bakbattahl
 Caladomia		ch300591	1188525595	Sacred Arbor
+Canabella		ch300605	2844002861	Nameless Village
+Capella			ch300124	1018748919	Melve
+Capreth			ch300681	1664329392	Borderwatch Outpost
+Cardash			ch300868	3659113647	Volcanic Island Camp
+Catherine		ch300635	2042189998	Wandering
+Catrey			ch300816	1154546709	Wandering
+Cayan			ch300805	1489061478	Vernworth
+Cecili			ch300669	562642393	Vernworth
