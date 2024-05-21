@@ -200,3 +200,11 @@ Daison			ch300082	4177381045	Volcanic Island Camp
 Dajiel			ch300899	390614036	Melve
 Dalton			ch300129	1596304636	Melve
 Damien			ch300203	3450192742	Borderwatch Outpost
+Daniella		ch300231	1565309162	Wandering
+Dann			ch300063	2005149068	Vernworth
+Dante			ch300627	4136217807	Checkpoint Rest Town
+Danton			ch300406	2048483027	Excavation Site
+Daphne			ch310055	1488552131	Vernworth
+Darhm			ch300753	4156751622	Excavation Site
+Darragh			ch310008	2839254405	Vernworth
+Daury			ch300642	1625784600	Wandering
