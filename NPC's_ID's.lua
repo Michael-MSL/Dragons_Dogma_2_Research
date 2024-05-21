@@ -268,3 +268,13 @@ Elena			ch310033	3656022968	Vernworth
 Eli			ch300091	2008577628	Borderwatch Outpost
 Eliza			ch300206	3990059766	Vernworth
 Elizabeth		ch300307	2310282013	Flambearer Palace
+Elkalim			ch300599	3323456474	Nameless Village
+Ella			ch300568	2350376877	Flambearer Palace
+Emerich			ch300080	3342177111	Flambearer Palace
+Emerson			ch300353	303697017	Wandering
+Emile			ch300189	3230931805	Vernworth
+Emoa			ch300426	2352885357	Vernworth
+Enoch			ch300540	659051716	Bakbattahl
+Enrique			ch300053	2386910030	Borderwatch Outpost
+Entia			ch300865	2282766554	Volcanic Island Camp
+Erik			ch300626	820366861	Wandering
