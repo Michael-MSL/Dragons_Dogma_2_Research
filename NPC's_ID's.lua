@@ -228,3 +228,13 @@ Disa			ch310004	1483341763	Vernworth
 Dixon			ch300512	1647984626	Bakbattahl
 Doireann		ch310019	1007143618	Sacred Arbor
 Domingo			ch300653	1216835171	Wandering
+Dommel			ch300462	774060297	Vernworth
+Donald			ch300645	3842043712	Wandering
+Donne			ch300413	534315458	Vernworth
+Donovan			ch300718	542068695	Vernworth
+Dora			ch300886	2742534749	Geyser Hamlet
+Dorias			ch300823	796666441	Wandering
+Dorica			ch300503	1444172597	Bakbattahl
+Dorothy			ch300211	549477508	Vernworth
+Dortmund		ch300710	2352734042	Melve
+Dracaena		ch300873	3942258058	Volcanic Island Camp
