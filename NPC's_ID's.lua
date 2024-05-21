@@ -278,3 +278,13 @@ Enoch			ch300540	659051716	Bakbattahl
 Enrique			ch300053	2386910030	Borderwatch Outpost
 Entia			ch300865	2282766554	Volcanic Island Camp
 Erik			ch300626	820366861	Wandering
+Ernesto			ch310041	3059207198	Bakbattahl
+Esmerelda		ch300169	540239875	Bakbattahl
+Esse			ch300047	1368937622	Excavation Site
+Eternna			ch300464	2731319276	Vernworth
+Etrika			ch300784	1087481980	Borderwatch Outpost
+Etzo			ch300031	3113368597	Vernworth
+Eugene			ch300202	429645780	Vernworth
+Eurius			ch300785	2945366633	Wandering
+Eutoria			ch300919	134426413	Volcanic Island Camp
+Eva			ch300505	2236224257	Bakbattahl
