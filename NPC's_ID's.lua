@@ -248,3 +248,13 @@ Ecktarina		ch300678	3603006932	Vernworth
 Ecletta			ch300794	3216139206	Bakbattahl
 Edda			ch300152	3946952391	Vernworth
 Edgar			ch300374	76530895	Checkpoint Rest Town
+Edie			ch300051	1996860211	Borderwatch Outpost
+Edina			ch300767	594068257	Excavation Site
+Edmilson		ch300289	3636495280	Excavation Site
+Edmund			ch300237	4189298102	Excavation Site
+Edwarr			ch300013	3941173386	Vernworth
+Edwin			ch300410	1878107999	Vernworth
+Eef			ch300788	1492355415	Wandering
+Eggim			ch300221	3935828734	Flambearer Palace
+Ehtgren			ch300179	2230727513	Vernworth
+Eini			ch310028	678396953	Eini's home
