@@ -288,3 +288,13 @@ Eugene			ch300202	429645780	Vernworth
 Eurius			ch300785	2945366633	Wandering
 Eutoria			ch300919	134426413	Volcanic Island Camp
 Eva			ch300505	2236224257	Bakbattahl
+Evelyn			ch300435	598818412	Vernworth
+Everard			ch310071	3027823138	Checkpoint Rest Town
+Evereck			ch300822	1457333867	Wandering
+Evo			ch300660	805986925	Wandering
+Evron			ch300815	3529260427	Wandering
+Ewan			ch300158	3156592466	Vernworth
+Exelion			ch300580	1651953765	Sacred Arbor
+Extia			ch300772	1709951256	Bakbattahl
+Eyre			ch300602	1780085843	Nameless Village
+Ezekias			ch300811	4081643762	Wandering
