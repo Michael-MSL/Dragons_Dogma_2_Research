@@ -238,3 +238,13 @@ Dorica			ch300503	1444172597	Bakbattahl
 Dorothy			ch300211	549477508	Vernworth
 Dortmund		ch300710	2352734042	Melve
 Dracaena		ch300873	3942258058	Volcanic Island Camp
+Drothea			ch300572	528543642	Flambearer Palace
+Dudley			ch300361	2058559252	Vernworth
+Duke			ch300666	3707189825	Wandering
+Dulles			ch300615	2707117268	Wandering
+Dylan			ch300311	2579823315	Vernworth
+Earland			ch300161	306105337	Bakbattahl
+Ecktarina		ch300678	3603006932	Vernworth
+Ecletta			ch300794	3216139206	Bakbattahl
+Edda			ch300152	3946952391	Vernworth
+Edgar			ch300374	76530895	Checkpoint Rest Town
