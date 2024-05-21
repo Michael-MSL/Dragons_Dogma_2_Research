@@ -126,3 +126,11 @@ Bizenta			ch300931	2548205727	Bakbattahl
 Bjorn			ch300393	1130117035	Vernworth
 Blade			ch300247	1488514733	Excavation Site
 Blonco			ch300087	2439044175	Volcanic Island Camp
+Blythe			ch300621	16045885	Wandering
+Bodas			ch300394	2763075421	Bakbattahl
+Boen			ch300853	2480738063	Wandering
+Bonita			ch300489	639792906	Bakbattahl
+Bordeau			ch300475	4033603197	Bakbattahl
+Borden			ch300232	2280165527	Wandering
+Boris			ch300238	2151584439	Excavation Site
+Botanika		ch300887	231011863	Geyser Hamlet
