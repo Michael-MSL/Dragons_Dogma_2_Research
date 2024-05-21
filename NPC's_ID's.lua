@@ -142,3 +142,12 @@ Braun			ch300675	1037712636	Vernworth
 Brefft			ch300134	4183974637	Wandering
 Brellia			ch300923	2484544502	Vernworth
 Brenda			ch300144	826381136	Vernworth
+Brian			ch300213	1058319285	Vernworth
+Bridget			ch300633	1553953084	Wandering
+Brink			ch300790	3483224347	Wandering
+Brokkr			ch310026	2439785051	Bakbattahl
+Brounen			ch300687	603926591	Vernworth
+Bruno			ch310054	220028531	Checkpoint Rest Town
+Burnns			ch300461	1076807512	Vernworth
+Cadmia			ch300932	2981056509	Bakbattahl
+Caladomia		ch300591	1188525595	Sacred Arbor
