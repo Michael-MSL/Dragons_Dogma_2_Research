@@ -258,3 +258,13 @@ Eef			ch300788	1492355415	Wandering
 Eggim			ch300221	3935828734	Flambearer Palace
 Ehtgren			ch300179	2230727513	Vernworth
 Eini			ch310028	678396953	Eini's home
+Eino			ch310029	3013948984	Eini's home
+Ekkihm			ch300305	603410556	Flambearer Palace
+Eklon			ch300817	4106777491	Wandering
+Ekratt			ch300346	2024333060	Bakbattahl
+Elcela			ch300518	278470423	Bakbattahl
+Eldart			ch300388	1099077099	Sacred Arbor
+Elena			ch310033	3656022968	Vernworth
+Eli			ch300091	2008577628	Borderwatch Outpost
+Eliza			ch300206	3990059766	Vernworth
+Elizabeth		ch300307	2310282013	Flambearer Palace
