@@ -184,3 +184,11 @@ Clovis			ch300377	819194497	Vernworth
 Clyde			ch300441	2094362024	Vernworth
 Cohen			ch300892	3314991799	Geyser Hamlet
 Corette			ch300373	4043594571	Bakbattahl
+Corlatta		ch300778	4112905895	Bakbattahl
+Cortago			ch300370	59122127	Geyser Hamlet
+Cosworth		ch300866	1392847435	Volcanic Island Camp
+Cragg			ch300029	3196466085	Vernworth
+Croft			ch300048	2092050643	Excavation Site
+Cuvall			ch300748	5423759		Excavation Site
+Cy			ch300513	3599324782	Bakbattahl
+Cynthia			ch300497	1722151350	Bakbattahl
