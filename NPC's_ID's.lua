@@ -159,3 +159,11 @@ Catherine		ch300635	2042189998	Wandering
 Catrey			ch300816	1154546709	Wandering
 Cayan			ch300805	1489061478	Vernworth
 Cecili			ch300669	562642393	Vernworth
+Cecilia			ch300843	1077876586	Sacred Arbor
+Celeste			ch300398	3344684746	Checkpoint Rest Town
+Celica			ch300650	638658706	Wandering
+Celina			ch310048	3282344307	Vernworth
+Centina			ch300648	1078095367	Wandering
+Cesaire			ch300727	3886118731	Borderwatch Outpost
+Cesar			ch300089	1517696665	Volcanic Island Camp
+Chandler		ch300387	36454432	Harve
