@@ -298,3 +298,13 @@ Exelion			ch300580	1651953765	Sacred Arbor
 Extia			ch300772	1709951256	Bakbattahl
 Eyre			ch300602	1780085843	Nameless Village
 Ezekias			ch300811	4081643762	Wandering
+Ezekiel			ch300164	3693696745	Bakbattahl
+Fabia			ch300424	3219121552	Vernworth
+Falgo			ch300474	1581029105	Bakbattahl
+Farooq			ch300563	2261442576	Bakbattahl
+Farrell			ch300539	2145444378	Bakbattahl
+Fearoth			ch300113	4127432047	Sacred Arbor
+Fedrico			ch300720	3035263974	Vernworth
+Feith			ch300402	1924380137	Nameless Village
+Felicia			ch300504	2421704055	Bakbattahl
+Felix			ch300622	1857447451	Wandering
