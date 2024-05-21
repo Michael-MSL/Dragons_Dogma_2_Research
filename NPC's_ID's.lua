@@ -308,3 +308,13 @@ Fedrico			ch300720	3035263974	Vernworth
 Feith			ch300402	1924380137	Nameless Village
 Felicia			ch300504	2421704055	Bakbattahl
 Felix			ch300622	1857447451	Wandering
+Fern			ch300521	2147119563	Bakbattahl
+Fiachra			ch300175	3323743501	Vernworth
+Finn			ch300205	386706998	Borderwatch Outpost
+Finnel			ch300739	1201947546	Vernworth
+Fiorina			ch300588	2630293378	Sacred Arbor
+Fiska			ch310080	3087152512	Excavation Site
+Flamure			ch300855	4178120567	Wandering
+Flander			ch300774	212596983	Melve
+Flaude			ch300683	2565155418	Nameless Village
+Flora			ch310040	3287815186	Vernworth
