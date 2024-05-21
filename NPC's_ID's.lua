@@ -208,3 +208,13 @@ Daphne			ch310055	1488552131	Vernworth
 Darhm			ch300753	4156751622	Excavation Site
 Darragh			ch310008	2839254405	Vernworth
 Daury			ch300642	1625784600	Wandering
+Davis			ch300837	3538384685	Wandering
+Dean			ch300670	2634805084	Vernworth
+Deborah			ch300172	2028597872	Flambearer Palace
+Deegan			ch300544	4100555523	Bakbattahl
+Delphin			ch300459	20724144	Vernworth
+Demetrio		ch300818	1360070407	Wandering
+Denny			ch300404	2555329880	Bakbattahl
+Deo			ch300561	1533843887	Bakbattahl
+Derek			ch300412	805932857	Vernworth
+Devnia			ch300758	2682820350	Excavation Site
