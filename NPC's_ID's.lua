@@ -176,3 +176,11 @@ Chloe			ch300560	1558004193	Bakbattahl
 Christina		ch300913	1416954785	Checkpoint Rest Town
 Clara			ch300558	3088422882	Bakbattahl
 Clarence		ch300543	1030769204	Bakbattahl
+Clarion			ch300706	3611528477	Melve
+Clarith			ch300397	922248223	Melve
+Clem			ch300876	2111506467	Volcanic Island Camp
+Cliodhna		ch310031	2544621420	Windwalker's Home
+Clovis			ch300377	819194497	Vernworth
+Clyde			ch300441	2094362024	Vernworth
+Cohen			ch300892	3314991799	Geyser Hamlet
+Corette			ch300373	4043594571	Bakbattahl
