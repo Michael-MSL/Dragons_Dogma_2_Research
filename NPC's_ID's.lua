@@ -192,3 +192,11 @@ Croft			ch300048	2092050643	Excavation Site
 Cuvall			ch300748	5423759		Excavation Site
 Cy			ch300513	3599324782	Bakbattahl
 Cynthia			ch300497	1722151350	Bakbattahl
+Cyrus			ch310058	1676923158	Vernworth
+Dagras			ch300293	703323879	Vernworth
+Dahlia			ch300184	1331603540	Borderwatch Outpost
+Daimon			ch300807	3769648822	Vernworth
+Daison			ch300082	4177381045	Volcanic Island Camp
+Dajiel			ch300899	390614036	Melve
+Dalton			ch300129	1596304636	Melve
+Damien			ch300203	3450192742	Borderwatch Outpost
