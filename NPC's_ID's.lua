@@ -134,3 +134,11 @@ Bordeau			ch300475	4033603197	Bakbattahl
 Borden			ch300232	2280165527	Wandering
 Boris			ch300238	2151584439	Excavation Site
 Botanika		ch300887	231011863	Geyser Hamlet
+Bouma			ch300253	1847417173	Excavation Site
+Bradley			ch300055	457109765	Borderwatch Outpost
+Brandon			ch300054	2775162458	Borderwatch Outpost
+Brant			ch310006	189868107	Vernworth
+Braun			ch300675	1037712636	Vernworth
+Brefft			ch300134	4183974637	Wandering
+Brellia			ch300923	2484544502	Vernworth
+Brenda			ch300144	826381136	Vernworth
