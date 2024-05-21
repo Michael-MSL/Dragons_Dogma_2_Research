@@ -218,3 +218,13 @@ Denny			ch300404	2555329880	Bakbattahl
 Deo			ch300561	1533843887	Bakbattahl
 Derek			ch300412	805932857	Vernworth
 Devnia			ch300758	2682820350	Excavation Site
+Diana			ch300338	3743885470	Vernworth
+Diego			ch300286	876292505	Excavation Site
+Dietrich		ch310037	2000968413	Bakbattahl
+Dimitri			ch300180	2016204777	Vernworth
+Dinniel			ch300641	2031070894	Wandering
+Dinno			ch300613	405353275	Wandering
+Disa			ch310004	1483341763	Vernworth
+Dixon			ch300512	1647984626	Bakbattahl
+Doireann		ch310019	1007143618	Sacred Arbor
+Domingo			ch300653	1216835171	Wandering
