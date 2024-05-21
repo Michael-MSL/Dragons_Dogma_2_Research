@@ -118,3 +118,11 @@ Bernstein		ch300697	3732488045	Harve
 Bertha			ch300088	3363595156	Volcanic Island Camp
 Bertil			ch300699	4078097338	Melve
 Bertran			ch300508	3359969029	Bakbattahl
+Bianka			ch300493	2933071528	Bakbattahl
+Billam			ch300028	4154161421	Vernworth
+Billiam			ch300814	4288346008	Wandering
+Birgit			ch300214	1577276021	Vernworth
+Bizenta			ch300931	2548205727	Bakbattahl
+Bjorn			ch300393	1130117035	Vernworth
+Blade			ch300247	1488514733	Excavation Site
+Blonco			ch300087	2439044175	Volcanic Island Camp
