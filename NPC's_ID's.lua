@@ -335,3 +335,12 @@ Friedrich		ch300200	657891082	Vernworth
 Frio			ch300411	930935041	Vernworth
 Frosst			ch300674	2496854090	Vernworth
 Fulvio			ch310068	1562187612	Bakbattahl
+Fyodor			ch300747	1898270109	Excavation Site
+Fyoran			ch310043	1770383584	Harve
+Gabriel			ch300365	3644115485	Excavation Site
+Gaeric			ch300783	1355116978	Borderwatch Outpost
+Gaiana			ch300501	385319721	Bakbattahl
+Galahad			ch300610	940820336	Wandering
+Galian			ch300376	277884805	Bakbattahl
+Gallad			ch300176	2950601180	Wandering
+Galmul			ch300643	3918258413	Wandering
