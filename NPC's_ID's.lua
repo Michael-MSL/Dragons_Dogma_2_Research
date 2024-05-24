@@ -370,3 +370,12 @@ Gideon			ch300830	2455658406	Wandering
 Gilbert			ch300096	2922846711	Borderwatch Outpost
 Gilliam			ch300044	2328912829	Excavation Site
 Gilmir			ch300640	1595448723	Wandering
+Gimleth			ch300889	3399472919	Geyser Hamlet
+Giovanni		ch300012	744954925	Vernworth
+Gisela			ch300217	1370657521	Vernworth
+Giselbert		ch300270	2692748767	Flambearer Palace
+Glenna			ch300157	4111806649	Vernworth
+Glennda			ch300550	2835474068	Bakbattahl
+Glintt			ch300283	466570005	Bakbattahl
+Glyndwr			ch310017	3560980369	Sacred Arbor
+Godric			ch310060	1008455080	Vernworth
