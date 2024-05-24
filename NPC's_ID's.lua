@@ -398,3 +398,13 @@ Gunther			ch300160	3689427708	Vernworth
 Gus			ch300657	36109926	Wandering
 Gustavo			ch300795	2680150390	Vernworth
 Gwen			ch300024	3580316444	Vernworth
+Gyas			ch300702	3092505029	Melve
+Gyna			ch300604	256724460	Nameless Village
+Hakea			ch300881	546701338	Volcanic Island Camp
+Hamish			ch300780	366581911	Bakbattahl
+Hans			ch300514	4195196481	Bakbattahl
+Hanspeter		ch300679	941040579	Vernworth
+Harland			ch300355	2310143765	Wandering
+Harnett			ch300826	30844702	Wandering
+Hartley			ch300125	304726309	Melve
+Harvey			ch300148	1637975128	Vernworth
