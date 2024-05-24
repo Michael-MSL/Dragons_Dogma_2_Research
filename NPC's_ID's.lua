@@ -448,3 +448,13 @@ Idorial			ch300585	475055212	Sacred Arbor
 Ignatz			ch300870	2237578426	Volcanic Island Camp
 Igon			ch300793	1265490644	Vernworth
 Illia			ch300867	1194397373	Volcanic Island Camp
+Ilona			ch300630	2155643323	Wandering
+Imelda			ch300396	1024289258	Melve
+Ines			ch300366	4092990758	Checkpoint Rest Town
+Inga			ch300257	1980700026	Excavation Site
+Ingrid			ch300455	957146656	Vernworth
+Iniesta			ch300836	3734237605	Wandering
+Innes			ch300895	1006617562	Melve
+Ionis			ch300801	2511928910	Vernworth
+Irena			ch300188	191162522	Vernworth
+Irma			ch300552	2617815836	Bakbattahl
