@@ -318,3 +318,11 @@ Flamure			ch300855	4178120567	Wandering
 Flander			ch300774	212596983	Melve
 Flaude			ch300683	2565155418	Nameless Village
 Flora			ch310040	3287815186	Vernworth
+Floris			ch300242	631430055	Excavation Site
+Floyd			ch300300	3181258355	Checkpoint Rest Town
+Folka			ch300349	985501123	Wandering
+Folkes			ch300684	67574493	Checkpoint Rest Town
+Fonda			ch300846	1966578402	Geyser Hamlet
+Forrest			ch300656	2012444308	Wandering
+Franc			ch300032	1963952716	Vernworth
+Francisca		ch300433	3216009952	Vernworth
