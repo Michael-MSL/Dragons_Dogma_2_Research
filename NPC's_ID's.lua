@@ -352,3 +352,12 @@ Gareth			ch300851	1881742222	Geyser Hamlet
 Gargant			ch300829	2298140020	Wandering
 Garland			ch300084	733144532	Volcanic Island Camp
 Garmin			ch300813	1495890575	Wandering
+Garrack			ch300460	3939355222	Vernworth
+Garren			ch300880	753279085	Volcanic Island Camp
+Garrett			ch300440	1924706487	Vernworth
+Gascole			ch300916	1333314103	Volcanic Island Camp
+Gassh			ch300301	1812271771	Checkpoint Rest Town
+Gaute			ch300700	1647908424	Melve
+Gautstafr		ch310032	1468499554	Windwalker's Home
+Geloa			ch300749	122934686	Excavation Site
+Geoff			ch300654	121832149	Wandering
