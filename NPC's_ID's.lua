@@ -326,3 +326,12 @@ Fonda			ch300846	1966578402	Geyser Hamlet
 Forrest			ch300656	2012444308	Wandering
 Franc			ch300032	1963952716	Vernworth
 Francisca		ch300433	3216009952	Vernworth
+Franklin		ch300218	92240296	Vernworth
+Frantz			ch300312	914477592	Vernworth
+Fredey			ch300249	1592523092	Excavation Site
+Fredrika		ch300556	4194048654	Bakbattahl
+Frey			ch300478	3556027155	Bakbattahl
+Friedrich		ch300200	657891082	Vernworth
+Frio			ch300411	930935041	Vernworth
+Frosst			ch300674	2496854090	Vernworth
+Fulvio			ch310068	1562187612	Bakbattahl
