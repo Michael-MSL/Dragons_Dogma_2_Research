@@ -388,3 +388,13 @@ Graham			ch300127	3975689448	Melve
 Grantt			ch300279	248598156	Flambearer Palace
 Gravas			ch300864	1262386325	Volcanic Island Camp
 Gregor			ch310072	1584718463	Borderwatch Outpost
+Gretta			ch300290	1431504452	Melve
+Grisha			ch300392	3905576685	Sacred Arbor
+Grouillard		ch300920	2391397636	Vernworth
+Guerrero		ch300882	3528332809	Vernworth
+Guiles			ch300898	3963636924	Melve
+Guillaume		ch300076	730376142	Bakbattahl
+Gunther			ch300160	3689427708	Vernworth
+Gus			ch300657	36109926	Wandering
+Gustavo			ch300795	2680150390	Vernworth
+Gwen			ch300024	3580316444	Vernworth
