@@ -438,3 +438,13 @@ Hollis			ch300314	2692845113	Vernworth
 Hount			ch300731	733881040	Vernworth
 Howard			ch300409	3261381809	Vernworth
 Hubert			ch300079	3844540263	Flambearer Palace
+Hughie			ch300510	986949927	Bakbattahl
+Hugo			ch310075	665009116	Wandering
+Humphrey		ch300094	673679638	Castle
+Ian			ch310022	2984506176	Melve
+Ibrahim			ch310067	3472286413	Checkpoint Rest Town
+Idan			ch300862	1133088666	Volcanic Island Camp
+Idorial			ch300585	475055212	Sacred Arbor
+Ignatz			ch300870	2237578426	Volcanic Island Camp
+Igon			ch300793	1265490644	Vernworth
+Illia			ch300867	1194397373	Volcanic Island Camp
