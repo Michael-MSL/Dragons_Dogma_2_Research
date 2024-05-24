@@ -458,3 +458,13 @@ Innes			ch300895	1006617562	Melve
 Ionis			ch300801	2511928910	Vernworth
 Irena			ch300188	191162522	Vernworth
 Irma			ch300552	2617815836	Bakbattahl
+Irmhild			ch310035	3450149089	Flambearer Palace
+Irving			ch300437	1163962220	Vernworth
+Isaac			ch310066	1545619405	Bakbattahl
+Isaas			ch300928	1428311752	Bakbattahl
+Ishburn			ch300768	1937942974	Vernworth
+Isla			ch300820	1457783313	Wandering
+Ivanna			ch300444	1195182585	Vernworth
+Jacint			ch300001	602560855	Checkpoint Rest Town
+Jackson			ch300224	4112853421	Flambearer Palace
+Jahd			ch300271	2344598557	Flambearer Palace
