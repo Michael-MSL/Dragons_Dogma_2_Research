@@ -428,3 +428,13 @@ Heston			ch300126	3183106937	Melve
 Higgs			ch300391	153325727	Vernworth
 Hilda			ch310046	2408633150	Vernworth
 Hildebrecht		ch300680	2619751808	Vernworth
+Hildegard		ch300288	677468035	Excavation Site
+Hillaire		ch300142	1188538230	Bakbattahl
+Hjalmar			ch300219	1882746207	Vernworth
+Hoffman			ch300620	3274951265	Wandering
+Holand			ch300210	3730022162	Vernworth
+Holgar			ch300092	2325054344	Borderwatch Outpost
+Hollis			ch300314	2692845113	Vernworth
+Hount			ch300731	733881040	Vernworth
+Howard			ch300409	3261381809	Vernworth
+Hubert			ch300079	3844540263	Flambearer Palace
