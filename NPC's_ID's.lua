@@ -344,3 +344,11 @@ Galahad			ch300610	940820336	Wandering
 Galian			ch300376	277884805	Bakbattahl
 Gallad			ch300176	2950601180	Wandering
 Galmul			ch300643	3918258413	Wandering
+Ganora			ch300664	3971424731	Wandering
+Ganorie			ch300737	701015612	Vernworth
+Gantt			ch300116	2610896172	Melve
+Ganver			ch300752	2942382340	Excavation Site
+Gareth			ch300851	1881742222	Geyser Hamlet
+Gargant			ch300829	2298140020	Wandering
+Garland			ch300084	733144532	Volcanic Island Camp
+Garmin			ch300813	1495890575	Wandering
