@@ -408,3 +408,13 @@ Harland			ch300355	2310143765	Wandering
 Harnett			ch300826	30844702	Wandering
 Hartley			ch300125	304726309	Melve
 Harvey			ch300148	1637975128	Vernworth
+Hassel			ch300533	3463662345	Bakbattahl
+Haymish			ch300315	319580651	Vernworth
+Hayne			ch300322	1228964420	Checkpoint Rest Town
+Hayworth		ch300708	1785130473	Melve
+Hazell			ch300229	3301614471	Wandering
+Heath			ch300183	1107248171	Borderwatch Outpost
+Heinz			ch300020	2953915779	Vernworth
+Henderson		ch300255	3925092503	Excavation Site
+Henricks		ch300380	1596148651	Checkpoint Rest Town
+Henrietta		ch300017	378286785	Vernworth
