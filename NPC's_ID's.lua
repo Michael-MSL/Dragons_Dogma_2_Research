@@ -361,3 +361,12 @@ Gaute			ch300700	1647908424	Melve
 Gautstafr		ch310032	1468499554	Windwalker's Home
 Geloa			ch300749	122934686	Excavation Site
 Geoff			ch300654	121832149	Wandering
+Geoffrey		ch300138	527644994	Borderwatch Outpost
+Georg			ch300364	2099520328	Bakbattahl
+George			ch300039	3033566831	Vernworth
+Gerare			ch300896	2298813751	Melve
+Gibran			ch300104	1869667592	Vernworth
+Gideon			ch300830	2455658406	Wandering
+Gilbert			ch300096	2922846711	Borderwatch Outpost
+Gilliam			ch300044	2328912829	Excavation Site
+Gilmir			ch300640	1595448723	Wandering
