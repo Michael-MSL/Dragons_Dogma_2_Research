@@ -379,3 +379,12 @@ Glennda			ch300550	2835474068	Bakbattahl
 Glintt			ch300283	466570005	Bakbattahl
 Glyndwr			ch310017	3560980369	Sacred Arbor
 Godric			ch310060	1008455080	Vernworth
+Golfaz			ch300925	888503162	Bakbattahl
+Gomez			ch300480	1133959884	Bakbattahl
+Gonzalo			ch300525	445251741	Bakbattahl
+Gordon			ch300075	863866576	Checkpoint Rest Town
+Gostoc			ch300799	1526139469	Vernworth
+Graham			ch300127	3975689448	Melve
+Grantt			ch300279	248598156	Flambearer Palace
+Gravas			ch300864	1262386325	Volcanic Island Camp
+Gregor			ch310072	1584718463	Borderwatch Outpost
