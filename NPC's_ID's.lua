@@ -418,3 +418,13 @@ Heinz			ch300020	2953915779	Vernworth
 Henderson		ch300255	3925092503	Excavation Site
 Henricks		ch300380	1596148651	Checkpoint Rest Town
 Henrietta		ch300017	378286785	Vernworth
+Henrique		ch300285	3530434734	Excavation Site
+Hera			ch300524	143847627	Bakbattahl
+Herald			ch300723	2829064904	Vernworth
+Herman			ch310069	2088314313	Wandering
+Hershey			ch300755	760867784	Excavation Site
+Herwicke		ch300688	1107796521	Vernworth
+Heston			ch300126	3183106937	Melve
+Higgs			ch300391	153325727	Vernworth
+Hilda			ch310046	2408633150	Vernworth
+Hildebrecht		ch300680	2619751808	Vernworth
