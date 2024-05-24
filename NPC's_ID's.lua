@@ -468,3 +468,14 @@ Ivanna			ch300444	1195182585	Vernworth
 Jacint			ch300001	602560855	Checkpoint Rest Town
 Jackson			ch300224	4112853421	Flambearer Palace
 Jahd			ch300271	2344598557	Flambearer Palace
+Jak			ch300034	1685603851	Vernworth
+James			ch300316	3509439612	Vernworth
+Jamilla			ch300244	2888299269	Excavation Site
+Janne			ch300608	3237260238	Wandering
+Jansen			ch300534	1082499321	Bakbattahl
+Jaqueline		ch300369	1912181947	Bakbattahl
+Jarle			ch310065	2151757684	Bakbattahl
+Jarod			ch300570	1232791354	Flambearer Palace
+Jarvis			ch300212	1410889957	Vernworth
+Jazeps			ch300709	1783512693	Melve
+Jehan			ch310053	1297612550	Checkpoint Rest Town
