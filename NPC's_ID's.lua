@@ -510,3 +510,11 @@ Juliana			ch300467	1121792498	Vernworth
 Justinn			ch300225	4153699967	Borderwatch Outpost
 Kacina			ch300908	4103345837	Checkpoint Rest Town
 Kaeyla			ch300494	3054526639	Bakbattahl
+Kahluya			ch300045	1783016000	Excavation Site
+Kaikhosru		ch300897	3376249020	Melve
+Kaiser			ch300841	2241469209	Excavation Site
+Kalle			ch300115	1190947041	Melve
+Kalyenti		ch300714	1033221740	Melve
+Kamil			ch300119	1849952287	Melve
+Karl			ch300198	1480859836	Vernworth
+Karlheinz		ch300775	3220560238	Bakbattahl
