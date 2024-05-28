@@ -588,3 +588,13 @@ Linda			ch300358	2269824472	Vernworth
 Lindoll			ch300112	4061189805	Sacred Arbor
 Lindsay			ch300070	2243755402	Vernworth
 Lingen			ch300473	843585727	Bakbattahl
+Linneisl		ch300114	36894919	Sacred Arbor
+Lion			ch300571	1546219338	Flambearer Palace
+Lionel			ch300403	1403427208	Checkpoint Rest Town
+Liotte			ch300095	1887094116	Borderwatch Outpost
+Lisette			ch300530	578256518	Bakbattahl
+Lisha			ch300559	3537581578	Bakbattahl
+Lisse			ch300536	1443838264	Bakbattahl
+Litra			ch300601	2297176417	Nameless Village
+Logge			ch300519	3614386307	Bakbattahl
+Loretta			ch300918	875563933	Volcanic Island Camp
