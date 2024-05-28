@@ -542,3 +542,11 @@ Kinno			ch300617	1893259801	Wandering
 Kishore			ch300230	2142700884	Wandering
 Kitanya			ch300901	1273706123	Melve
 Kitry			ch300496	3924896872	Bakbattahl
+Kittey			ch300454	3740052207	Vernworth
+Klark			ch300171	2884679268	Vernworth
+Klaudia			ch300522	88480398	Bakbattahl
+Klaus			ch310062	3335726897	Vernworth
+Klein			ch300209	1194091672	Vernworth
+Kleis			ch300607	2537694857	Wandering
+Kleyna			ch300691	4142704495	Vernworth
+Kodey			ch300545	2617093903	Bakbattahl
