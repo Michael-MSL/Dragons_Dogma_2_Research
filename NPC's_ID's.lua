@@ -502,3 +502,11 @@ Jonathan		ch300265	211750272	Melve
 Jordan			ch300796	3549771845	Vernworth
 Jose			ch300057	1309161284	Borderwatch Outpost
 Josef			ch300204	221897851	Borderwatch Outpost
+Josephine		ch300468	115056581	Vernworth
+Joshua			ch300058	670900004	Borderwatch Outpost
+Josia			ch300703	3566937321	Melve
+Judas			ch300671	757560907	Vernworth
+Juliana			ch300467	1121792498	Vernworth
+Justinn			ch300225	4153699967	Borderwatch Outpost
+Kacina			ch300908	4103345837	Checkpoint Rest Town
+Kaeyla			ch300494	3054526639	Bakbattahl
