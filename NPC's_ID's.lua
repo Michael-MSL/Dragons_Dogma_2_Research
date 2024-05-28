@@ -578,3 +578,13 @@ Lennart			ch310081	240278635	Melve
 Leo			ch300673	2860156132	Vernworth
 Leonel			ch300579	2752857824	Sacred Arbor
 Lepak			ch300593	2252070698	Nameless Village
+Leslie			ch300422	1606242782	Vernworth
+Levohk			ch300516	1789005030	Bakbattahl
+Levram			ch300596	2083862150	Nameless Village
+Liam			ch300107	3612120636	Vernworth
+Lieke			ch300857	3602332525	Wandering
+Lillian			ch300327	4184260780	Bakbattahl
+Linda			ch300358	2269824472	Vernworth
+Lindoll			ch300112	4061189805	Sacred Arbor
+Lindsay			ch300070	2243755402	Vernworth
+Lingen			ch300473	843585727	Bakbattahl
