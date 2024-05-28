@@ -526,3 +526,11 @@ Kassandra		ch300234	2338130315	Borderwatch Outpost
 Katerina		ch300186	1008946947	Vernworth
 Katrina			ch300447	999765101	Vernworth
 Keane			ch300509	2616949644	Bakbattahl
+Keaton			ch300381	2826864117	Bakbattahl
+Keila			ch300276	2801834903	Vernworth
+Keith			ch300163	2075959192	Bakbattahl
+Kellen			ch300359	973476632	Vernworth
+Keltse			ch300806	4202256448	Vernworth
+Kendrick		ch310049	920227254	Vernworth
+Kenneth			ch300296	1249970411	Vernworth
+Kevine			ch300442	2088789384	Vernworth
