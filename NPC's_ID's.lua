@@ -550,3 +550,11 @@ Klein			ch300209	1194091672	Vernworth
 Kleis			ch300607	2537694857	Wandering
 Kleyna			ch300691	4142704495	Vernworth
 Kodey			ch300545	2617093903	Bakbattahl
+Kona			ch300821	1086173736	Wandering
+Konan			ch300266	848265673	Melve
+Konstantin		ch300014	1478811284	Vernworth
+Korban			ch300233	2938433269	Wandering
+Korinna			ch300523	1539602478	Bakbattahl
+Kough			ch300401	2413314947	Sacred Arbor
+Kris			ch300227	2355507112	Borderwatch Outpost
+Ksenia			ch300922	858854822	Vernworth
