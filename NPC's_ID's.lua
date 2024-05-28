@@ -479,3 +479,11 @@ Jarod			ch300570	1232791354	Flambearer Palace
 Jarvis			ch300212	1410889957	Vernworth
 Jazeps			ch300709	1783512693	Melve
 Jehan			ch310053	1297612550	Checkpoint Rest Town
+Jenessa			ch300612	2409968063	Wandering
+Jenniferr		ch300102	1927848229	Vernworth
+Jeremy			ch300419	1784085200	Vernworth
+Jerome			ch300077	2178791607	Flambearer Palace
+Jessika			ch300025	4272790326	Vernworth
+Jesslia			ch300893	434830805	Vernworth
+Jester			ch300730	2590288511	Borderwatch Outpost
+Jeunesse		ch300049	1898473198	Excavation Site
