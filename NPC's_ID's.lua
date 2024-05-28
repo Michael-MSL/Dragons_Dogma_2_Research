@@ -568,3 +568,13 @@ Lanzo			ch310076	1282542142	Wandering
 Lawrence		ch300154	2882142903	Vernworth
 Lax			ch300050	4271160779	Excavation Site
 Lazare			ch300278	3344050726	Flambearer Palace
+Leander			ch300135	2734356024	Vernworth
+Legga			ch300306	59355431	Flambearer Palace
+Leigh			ch300482	3899008821	Bakbattahl
+Lemone			ch300910	1416096015	Checkpoint Rest Town
+Lenbren			ch300587	4243122266	Sacred Arbor
+Lenna			ch300332	4125526546	Harve
+Lennart			ch310081	240278635	Melve
+Leo			ch300673	2860156132	Vernworth
+Leonel			ch300579	2752857824	Sacred Arbor
+Lepak			ch300593	2252070698	Nameless Village
