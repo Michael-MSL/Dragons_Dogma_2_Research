@@ -598,3 +598,13 @@ Lisse			ch300536	1443838264	Bakbattahl
 Litra			ch300601	2297176417	Nameless Village
 Logge			ch300519	3614386307	Bakbattahl
 Loretta			ch300918	875563933	Volcanic Island Camp
+Lorraine		ch300197	3676536995	Vernworth
+Lottie			ch300153	2712112267	Vernworth
+Lubomir			ch310051	2737641289	Vernworth
+Lucia			ch300208	615026124	Vernworth
+Luida			ch300614	3162798980	Wandering
+Luigino			ch300736	3452533511	Vernworth
+Luis			ch300472	2393810203	Bakbattahl
+Luksa			ch300228	2573571565	Borderwatch Outpost
+Luomir			ch300111	2105581016	Sacred Arbor
+Lutia			ch300590	3992292701	Sacred Arbor
