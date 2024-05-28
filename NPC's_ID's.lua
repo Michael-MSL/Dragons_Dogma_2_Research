@@ -534,3 +534,11 @@ Keltse			ch300806	4202256448	Vernworth
 Kendrick		ch310049	920227254	Vernworth
 Kenneth			ch300296	1249970411	Vernworth
 Kevine			ch300442	2088789384	Vernworth
+Kiara			ch300804	3333728525	Vernworth
+Kiena			ch300840	3968055937	Excavation Site
+Kiera			ch300632	1931483363	Wandering
+Kimball			ch300081	1207491184	Volcanic Island Camp
+Kinno			ch300617	1893259801	Wandering
+Kishore			ch300230	2142700884	Wandering
+Kitanya			ch300901	1273706123	Melve
+Kitry			ch300496	3924896872	Bakbattahl
