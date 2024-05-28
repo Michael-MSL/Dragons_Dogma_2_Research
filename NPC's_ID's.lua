@@ -558,3 +558,13 @@ Korinna			ch300523	1539602478	Bakbattahl
 Kough			ch300401	2413314947	Sacred Arbor
 Kris			ch300227	2355507112	Borderwatch Outpost
 Ksenia			ch300922	858854822	Vernworth
+Kunal			ch300872	1001528596	Volcanic Island Camp
+Kurtis			ch300457	3158866038	Vernworth
+Kyrk			ch300181	442924736	Borderwatch Outpost
+Ladnian			ch300086	3295696522	Volcanic Island Camp
+Lamond			ch310064	3252066890	Geyser Hamlet
+Landar			ch300191	1413857097	Vernworth
+Lanzo			ch310076	1282542142	Wandering
+Lawrence		ch300154	2882142903	Vernworth
+Lax			ch300050	4271160779	Excavation Site
+Lazare			ch300278	3344050726	Flambearer Palace
