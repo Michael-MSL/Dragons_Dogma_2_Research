@@ -494,3 +494,11 @@ Jinn			ch300486	180599383	Bakbattahl
 Joachim			ch300451	161676283	Vernworth
 Joel			ch300064	4267731056	Vernworth
 Johan			ch300350	3644252352	Wandering
+Johanna			ch300517	317705234	Bakbattahl
+Johannes		ch300159	739685463	Vernworth
+Johnson			ch300629	1264778416	Wandering
+Jonas			ch310044	3675926147	Harve
+Jonathan		ch300265	211750272	Melve
+Jordan			ch300796	3549771845	Vernworth
+Jose			ch300057	1309161284	Borderwatch Outpost
+Josef			ch300204	221897851	Borderwatch Outpost
