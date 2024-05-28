@@ -487,3 +487,10 @@ Jessika			ch300025	4272790326	Vernworth
 Jesslia			ch300893	434830805	Vernworth
 Jester			ch300730	2590288511	Borderwatch Outpost
 Jeunesse		ch300049	1898473198	Excavation Site
+Jho			ch300458	391373449	Vernworth
+Jill			ch300637	3584277742	Wandering
+Jimmi			ch300196	433403061	Vernworth
+Jinn			ch300486	180599383	Bakbattahl
+Joachim			ch300451	161676283	Vernworth
+Joel			ch300064	4267731056	Vernworth
+Johan			ch300350	3644252352	Wandering
