@@ -608,3 +608,412 @@ Luis			ch300472	2393810203	Bakbattahl
 Luksa			ch300228	2573571565	Borderwatch Outpost
 Luomir			ch300111	2105581016	Sacred Arbor
 Lutia			ch300590	3992292701	Sacred Arbor
+Lutz			ch300008	184604006	Checkpoint Rest Town
+Luz			ch310013	2411836891	Bakbattahl
+Luz			ch300337	3142523802	Wandering
+Lyailim			ch300934	2695702566	Bakbattahl
+Lyla			ch300246	3921662580	Excavation Site
+Lynn			ch300043	1362874362	Excavation Site
+Lynne			ch300548	2277574939	Bakbattahl
+Lysetta			ch300850	1385683912	Vernworth
+Lyssandro		ch300320	2097686220	Checkpoint Rest Town
+Machares		ch300856	4544311		Wandering
+Madeline		ch300506	1169428072	Bakbattahl
+Madhif			ch300526	239498654	Bakbattahl
+Magellan		ch300715	1903466929	Melve
+Magorr			ch300487	1359186762	Bakbattahl
+Magrol			ch300584	1904705332	Sacred Arbor
+Majaff			ch300481	1554726139	Bakbattahl
+Makenzie		ch300272	1913244086	Vernworth
+Malcolm			ch310050	1310870807	Vernworth
+Manna			ch300603	301335083	Nameless Village
+Mansenn			ch300295	3082351283	Vernworth
+Maquia			ch300762	3876925440	Excavation Site
+Marcello		ch300647	3910225705	Wandering
+Marett			ch300263	4055520999	Melve
+Margaret		ch300432	3690756251	Vernworth
+Margit			ch310042	1071544705	Vernworth
+Margot			ch300056	4114667104	Borderwatch Outpost
+Margus			ch300689	3340851303	Vernworth
+Marie			ch300105	2652192620	Vernworth
+Marielle		ch300431	2141284712	Vernworth
+Marilyn			ch300382	1749655689	Melve
+Marina			ch300502	2113474887	Bakbattahl
+Marissa			ch300101	2407534764	Vernworth
+Marjory			ch300469	4078070387	Vernworth
+Markus			ch300139	573175824	Borderwatch Outpost
+Marlene			ch300888	3753949462	Vernworth
+Marshall		ch300259	3405953120	Vernworth
+Martha			ch300861	2642236258	Vernworth
+Marthe			ch300343	3171867014	Volcanic Island Camp
+Martin			ch310021	3215417244	Vernworth
+Matilda			ch300634	974119366	Wandering
+Matthieu		ch300165	3175663102	Bakbattahl
+Mauritius		ch300705	177384299	Melve
+Maurits			ch300696	549796702	Bakbattahl
+Maxell			ch300698	2632984434	Melve
+Maxima			ch300304	573961596	Flambearer Palace
+Megan			ch300331	2473072049	Harve
+Melissa			ch300405	3981451397	Volcanic Island Camp
+Mell			ch300663	3080162345	Wandering
+Mellanya		ch300241	1134563594	Excavation Site
+Melvin			ch300252	3278738275	Excavation Site
+Menella			ch310011	4137867127	Flambearer Palace
+Meredia			ch300638	993893471	Wandering
+Merrida			ch300498	1379409914	Bakbattahl
+Messara			ch300917	1892817290	Volcanic Island Camp
+Messina			ch300879	602790121	Volcanic Island Camp
+Mettefere		ch300378	1926782680	Bakbattahl
+Mia			ch300362	1578496137	Melve
+Midna			ch300428	2591136162	Vernworth
+Miguel			ch300661	2998372194	Wandering
+Mikis			ch300694	3904663374	Vernworth
+Mildred			ch310061	3202987914	Vernworth
+Miles			ch300108	221865799	Vernworth
+Millei			ch300520	1227339656	Bakbattahl
+Milton			ch300122	3553145341	Melve
+Minerva			ch300547	414691492	Bakbattahl
+Mira			ch300929	4067933759	Bakbattahl
+Mirabeau		ch300215	227593115	Vernworth
+Mirthe			ch300340	1661831556	Vernworth
+Missha			ch300884	460327505	Vernworth
+Moana			ch300766	2948265562	Excavation Site
+Moderina		ch300858	796312764	Wandering
+Moftahr			ch300287	2175975067	Excavation Site
+Mona			ch300453	3619583885	Vernworth
+Mondaine		ch300389	3992584122	Nameless Village
+Monet			ch300924	408064701	Vernworth
+Monika			ch300155	4105858003	Vernworth
+Montague		ch300274	2092139650	Vernworth
+Montgomery		ch300292	879149171	Checkpoint Rest Town
+Morce			ch300609	3636195647	Wandering
+Morganna		ch300567	2281061904	Flambearer Palace
+Morris			ch310063	1191862039	Checkpoint Rest Town
+Morton			ch300701	1981445818	Melve
+Moses			ch300178	4016193561	Checkpoint Rest Town
+Mosse			ch300132	2350591203	Vernworth
+Muhsina			ch300863	3271120244	Volcanic Island Camp
+Mulka			ch300781	1633198754	Bakbattahl
+Myglin			ch300578	4211615164	Sacred Arbor
+Mykolail		ch300716	3770796264	Melve
+Myrddin			ch310030	1603137626	Checkpoint Rest Town
+Nabrah			ch300282	1111375959	Bakbattahl
+Nadinia			ch310034	1872023094	Flambearer Palace
+Naela			ch300732	58029577	Vernworth
+Nagil			ch300707	3409041724	Melve
+Nahl			ch300726	2906977770	Vernworth
+Nannsi			ch300194	975781026	Vernworth
+Narcyz			ch300819	129504419	Wandering
+Narrouga		ch300649	2182464208	Wandering
+Natasha			ch300339	4032702110	Vernworth
+Nathaniel		ch300754	4198296923	Excavation Site
+Navil			ch300294	2778856194	Vernworth
+Navvan			ch300476	1097309561	Bakbattahl
+Nebiru			ch300686	1284284224	Vernworth
+Nellas			ch300586	2073919699	Sacred Arbor
+Nem			ch300072	178070616	Castle
+Neomith			ch300385	2074013987	Vernworth
+Neveah			ch300085	4173042146	Volcanic Island Camp
+Niam			ch300824	3768774896	Wandering
+Niann			ch300291	4260842572	Vernworth
+Nicolette		ch300529	2663925072	Bakbattahl
+Nikita			ch300733	2842191109	Vernworth
+Nikk			ch300298	963132753	Vernworth
+Nikolas			ch300015	479844820	Vernworth
+Niles			ch300326	3235709456	Bakbattahl
+Nina			ch300264	3457646091	Melve
+Nirvane			ch300357	3066760969	Vernworth
+Nitra			ch300769	619630010	Vernworth
+Noah			ch300120	2670173849	Melve
+Nomos			ch300284	3628922176	Bakbattahl
+Nonna			ch300528	3582298943	Bakbattahl
+Norah			ch300672	2630267718	Vernworth
+Norbert			ch310023	1907264696	Melve
+Norman			ch300062	195891058	Vernworth
+Norris			ch300250	2853399953	Excavation Site
+Nothrais		ch300562	2736265676	Castle
+Nox			ch300074	2953883437	Castle
+Odhran			ch300845	1538864141	Sacred Arbor
+Offulve			ch310070	3680129867	Checkpoint Rest Town
+Oliver			ch300351	1492684247	Wandering
+Olivia			ch300446	2853750379	Vernworth
+Olphen			ch300729	2805243780	Borderwatch Outpost
+Olven			ch310024	3412497406	Vernworth
+Orellian		ch300414	90316817	Vernworth
+Orlando			ch300542	110661154	Bakbattahl
+Orley			ch300168	3261068208	Bakbattahl
+Ortansa			ch300791	1415842669	Wandering
+Ortega			ch300299	1758958104	Checkpoint Rest Town
+Oskar			ch300335	2954976292	Checkpoint Rest Town
+Oswald			ch300143	2696396312	Vernworth
+Otto			ch300066	1008080936	Vernworth
+Outena			ch300810	3136763525	Vernworth
+Paelle			ch300659	3735724466	Wandering
+Pamella			ch300269	1847077563	Flambearer Palace
+Paola			ch300662	2697573403	Wandering
+Parsimon		ch300852	1922607788	Wandering
+Pate			ch300098	3059499762	Vernworth
+Pathfinder		ch310074	504636546	Wandering
+Patrick			ch310005	3052646550	Vernworth
+Paul			ch300128	24902487	Melve
+Paulina			ch300877	623851146	Volcanic Island Camp
+Pauline			ch300254	391828353	Excavation Site
+Pearl			ch300167	3069000800	Bakbattahl
+Peggy			ch300779	80436817	Bakbattahl
+Pein			ch300408	1053098183	Vernworth
+Pella			ch300740	1910796161	Vernworth
+Penelope		ch300875	3523052509	Volcanic Island Camp
+Percival		ch300342	2688348239	Volcanic Island Camp
+Perrine			ch300912	241777015	Checkpoint Rest Town
+Persor			ch300717	1073102124	Melve
+Peter			ch300083	3333221499	Volcanic Island Camp
+Petra			ch300854	3797854181	Wandering
+Peyton			ch300193	3670196092	Vernworth
+Phaesus			ch310009	2365554741	Flambearer Palace
+Phiellma		ch300831	1185279776	Wandering
+Philbert		ch300173	3013184643	Vernworth
+Phill			ch300052	41790483	Borderwatch Outpost
+Phillippe		ch300038	1357683849	Vernworth
+Pierce			ch300787	1821600193	Wandering
+Pietro			ch300450	1815590621	Vernworth
+Pladika			ch300764	321685468	Excavation Site
+Preston			ch300216	2314842441	Vernworth
+Quentin			ch300324	1630446024	Wandering
+Querick			ch300904	1424002094	Checkpoint Rest Town
+Quikkel			ch300825	2530688437	Wandering
+Quince			ch300905	2318879766	Checkpoint Rest Town
+Quinia			ch300763	1605519372	Excavation Site
+Rachel			ch300470	3283735451	Vernworth
+Radcliff		ch310052	4028809669	Checkpoint Rest Town
+Raelia			ch300170	1088771312	Bakbattahl
+Raggos			ch300564	451121259	Flambearer Palace
+Raghnall		ch310078	1874680072	Flambearer Palace
+Rahnks			ch300248	1036748561	Excavation Site
+Raja			ch300499	3778438241	Bakbattahl
+Rakeem			ch300711	2848696127	Melve
+Rakim			ch300488	750042086	Bakbattahl
+Ramon			ch300625	315898506	Wandering
+Ramsey			ch300611	346641645	Wandering
+Rance			ch300174	97841474	Vernworth
+Randall			ch300093	1967729994	Borderwatch Outpost
+Ranvelt			ch300449	809800245	Vernworth
+Raul			ch300415	4118484849	Vernworth
+Raymond			ch300106	3469901822	Vernworth
+Rebekka			ch300429	1041580560	Vernworth
+Regina			ch300336	2326997604	Wandering
+Reijo			ch300623	1272555		Wandering
+Renton			ch300616	1478127620	Wandering
+Reuben			ch300240	3889228012	Excavation Site
+Rex			ch300073	1557629232	Castle
+Richard			ch300145	1392118998	Harve
+Richare			ch300421	406827180	Vernworth
+Richmond		ch300273	1812165814	Vernworth
+Rick			ch300149	3385393972	Vernworth
+Riddick			ch300099	2262406465	Vernworth
+Rikhard			ch300007	4099837137	Checkpoint Rest Town
+Riley			ch300646	769686860	Wandering
+Rionne			ch300103	3056366253	Vernworth
+Ritton			ch300035	3959927929	Vernworth
+Rivage Elder		ch310014	2190167323	Harve
+Rivera			ch300576	3749961778	Flambearer Palace
+Robbe			ch300177	2362554677	Checkpoint Rest Town
+Robellt			ch300302	3327340334	Flambearer Palace
+Robert			ch300109	3979723974	Vernworth
+Rochus			ch300136	1137422990	Vernworth
+Rod			ch300166	2577934254	Bakbattahl
+Roddie			ch300069	4230930303	Vernworth
+Roderick		ch300009	1460554004	Vernworth
+Rodge			ch310007	1413112416	Checkpoint Rest Town
+Roger			ch300130	1327866194	Bakbattahl
+Roland			ch300010	492391322	Vernworth
+Rolf			ch300097	1220571437	Vernworth
+Rolph			ch300334	3444989115	Wandering
+Roman			ch300347	1424070675	Vernworth
+Rommes			ch300532	4225480966	Bakbattahl
+Romule			ch300595	3048578804	Nameless Village
+Ronald			ch300011	4091448110	Vernworth
+Rook			ch310079	2017223576	Wandering
+Rosy			ch300606	2921588463	Nameless Village
+Rothais			ch310015	1977045206	Seafloor Shrine - Sacred Grounds
+Rowan			ch300665	2578103649	Wandering
+Roxanne			ch300427	2062789287	Vernworth
+Roy			ch300456	1264673426	Vernworth
+Rozze			ch300375	507070971	Volcanic Island Camp
+Rudolf			ch300123	1781728144	Melve
+Rufus			ch300223	482973189	Flambearer Palace
+Runne			ch300261	296734378	Melve
+Russell			ch300277	584455432	Vernworth
+Ryuka			ch300416	3170083733	Vernworth
+Sachatt			ch300809	3078078139	Vernworth
+Sahl			ch300531	313364902	Bakbattahl
+Salvatore		ch300776	2372888457	Vernworth
+Samantha		ch300019	3573393756	Vernworth
+Sanchen			ch300624	727281606	Wandering
+Sandra			ch300466	2827069018	Vernworth
+Sandred			ch300890	2022169370	Geyser Hamlet
+Sanni			ch300573	3209340749	Flambearer Palace
+Santiago		ch300243	2246375649	Excavation Site
+Sara			ch310025	1363233817	Bakbattahl
+Sasha			ch300325	4071170573	Wandering
+Saverio			ch300318	507217651	Checkpoint Rest Town
+Scario			ch300281	4054049362	Bakbattahl
+Scarlett		ch300018	362659020	Vernworth
+Schieble		ch300738	2013416102	Vernworth
+Schwantz		ch300921	2899712750	Vernworth
+Scloane			ch300894	3099859154	Geyser Hamlet
+Seachlann		ch300844	3090649794	Sacred Arbor
+Sebastian		ch310056	4124055264	Vernworth
+Seferinno		ch300321	2640781732	Checkpoint Rest Town
+Segnyth			ch300721	2758591272	Vernworth
+Sekkah			ch300222	1375500943	Flambearer Palace
+Sella			ch300430	2709704828	Vernworth
+Senia			ch300798	4258845541	Vernworth
+Senna			ch300619	1762737605	Wandering
+Serra			ch300434	538204273	Vernworth
+Severino		ch300185	2844375342	Vernworth
+Sevris			ch300839	3907664420	Excavation Site
+Shakir			ch300400	3192336148	Vernworth
+Shannon			ch300883	1619027194	Geyser Hamlet
+Shaun			ch300022	2874491352	Vernworth
+Sheela			ch300490	1036325110	Bakbattahl
+Shellie			ch300236	1693480023	Borderwatch Outpost
+Sheona			ch300848	3604733374	Geyser Hamlet
+Shnoss			ch300833	3692535257	Wandering
+Sibyl			ch300495	3119605818	Bakbattahl
+Sidney			ch300354	161957997	Wandering
+Siegvalt		ch300719	1071628406	Vernworth
+Signora			ch300760	3765511604	Excavation Site
+Sigurd			ch310020	1108605478	Harve
+Silas			ch300000	260732951	Vernworth
+Simon			ch310038	43671194	Vernworth
+Siobhan			ch300618	1653816350	Wandering
+Sirius			ch300569	317909075	Flambearer Palace
+Sivven			ch300581	1274940008	Sacred Arbor
+Solt			ch300597	3188386408	Nameless Village
+Sonia			ch300033	1249347714	Vernworth
+Sora			ch300792	888948414	Wandering
+Sorent			ch300743	3423646659	Bakbattahl
+Sousanna		ch300121	1482978693	Melve
+Sovan			ch300770	2723635091	Vernworth
+Sover			ch300728	1794579265	Vernworth
+Srail			ch310086	1020361921	Nameless Village
+Stanley			ch300061	2715701266	Melve
+Stella			ch300909	2467853966	Checkpoint Rest Town
+Stephen			ch300065	94467753	Vernworth
+Stitalv			ch300023	1487864388	Vernworth
+Stollan			ch300828	1520861990	Wandering
+Straffe			ch300436	1207186756	Vernworth
+Strannd			ch300927	2117856107	Bakbattahl
+Suabek			ch300773	799343647	Vernworth
+Suri			ch300268	460763428	Melve
+Suzan			ch300636	3131876831	Wandering
+Sven			ch310003	1210835050	Vernworth
+Svereth			ch300658	4112612111	Wandering
+Tabitha			ch300390	83780915	Excavation Site
+Tacoma			ch300834	638007683	Wandering
+Taleef			ch300537	2891172534	Bakbattahl
+Talib			ch300040	2490934314	Vernworth
+Taliesin		ch310018	3597605784	Sacred Arbor
+Tania			ch300192	1130569995	Vernworth
+Tantra			ch300842	3667433808	Flambearer Palace
+Targa			ch300771	562821329	Bakbattahl
+Tarkoff			ch300235	2946092228	Borderwatch Outpost
+Tarmo			ch300071	1160817127	Castle
+Tatiana			ch300535	3658376198	Bakbattahl
+Tauron			ch300915	2882195544	Volcanic Island Camp
+Telestia		ch300885	2896547582	Geyser Hamlet
+Tennyson		ch300251	104561237	Excavation Site
+Teodor			ch300016	91423506	Vernworth
+Tezinha			ch300869	3212769619	Volcanic Island Camp
+The Dragonforged	ch310012	561828483	Bay Wayside Shrine
+Thed			ch300418	832925818	Vernworth
+Themlia			ch300761	1058443059	Excavation Site
+Theo			ch300538	433710288	Bakbattahl
+Theodorus		ch300750	2282040662	Excavation Site
+Thias			ch300891	4251116136	Geyser Hamlet
+Thiem			ch300303	1954090909	Flambearer Palace
+Thiemothee		ch300360	3968554041	Vernworth
+Thierad			ch300902	3199370652	Checkpoint Rest Town
+Thobson			ch300907	3337832329	Checkpoint Rest Town
+Thom			ch300448	18211652	Vernworth
+Thor			ch300323	3389685362	Checkpoint Rest Town
+Throndir		ch300577	318032752	Sacred Arbor
+Thurstan		ch300030	1745512190	Vernworth
+Thurston		ch300313	1949013051	Vernworth
+Tiffanie		ch300275	497054276	Vernworth
+Timothy			ch300004	1365116448	Checkpoint Rest Town
+Tobias			ch300319	3841890128	Checkpoint Rest Town
+Todd			ch300195	1041507632	Vernworth
+Tonya			ch300871	2693634331	Volcanic Island Camp
+Torg			ch300598	1184488156	Nameless Village
+Torrence		ch300344	1691150499	Volcanic Island Camp
+Toumi			ch300317	1522827202	Checkpoint Rest Town
+Tram			ch300803	432420374	Vernworth
+Travvers		ch300541	439012541	Bakbattahl
+Trekk			ch300485	1300103587	Bakbattahl
+Tremaine		ch300333	2436771762	Borderwatch Outpost
+Trenka			ch300911	1334457155	Checkpoint Rest Town
+Tristan			ch300060	2928473830	Melve
+Troia			ch300329	1219490769	Harve
+Trysha			ch310027	1431240533	Eini's home
+Turcel			ch300849	340269713	Geyser Hamlet
+Tylion			ch300582	755327640	Sacred Arbor
+Tyrell			ch300341	681157119	Volcanic Island Camp
+Ulrika			ch310073	1261971841	Melve
+Unica			ch300759	939489319	Excavation Site
+Ursula			ch300371	590080768	Vernworth
+Vachss			ch300162	2976408800	Bakbattahl
+Valen			ch300802	2195051002	Vernworth
+Vandann			ch300483	4234172345	Bakbattahl
+Vanessa			ch300267	928231968	Melve
+Varga			ch300926	3375378279	Bakbattahl
+Varmont			ch300786	2699233802	Wandering
+Varsella		ch300734	3718777324	Vernworth
+Vera			ch310082	407577432	Flambearer Palace
+Verdi			ch300600	3260345782	Nameless Village
+Vergil			ch300695	1840466894	Bakbattahl
+Verona			ch300789	1812105415	Wandering
+Veronika		ch300100	4201527906	Vernworth
+Victoria		ch300724	3679191460	Vernworth
+Vidal			ch310057	2187954548	Vernworth
+Viktor			ch300187	1364231180	Vernworth
+Vinevia			ch300651	39261861	Wandering
+Vinse			ch300117	1212673335	Melve
+Viola			ch300668	3518390619	Vernworth
+Vlasiy			ch300151	190095189	Vernworth
+Wade			ch300438	1587253032	Vernworth
+Waldhar			ch310001	4267448965	Vernworth
+Walt			ch300068	2847869141	Vernworth
+Walter			ch300407	2821779832	Vernworth
+Wanda			ch300445	2943961748	Vernworth
+Warrick			ch300059	4052630797	Borderwatch Outpost
+Waz			ch300676	2406777350	Vernworth
+Wemma			ch300914	2446550852	Checkpoint Rest Town
+Wendy			ch300131	1110598581	Nameless Village
+Whatt			ch300330	1147709375	Harve
+Whitaker		ch300874	2590014588	Volcanic Island Camp
+Whitney			ch300742	388641340	Bakbattahl
+Wilhelmina		ch310002	1461307325	Vernworth
+Willard			ch300368	4164035122	Vernworth
+Willem			ch300239	72686948	Excavation Site
+William			ch300021	1452901959	Vernworth
+Wolt			ch300878	898137927	Volcanic Island Camp
+Xavier			ch300005	3713252879	Checkpoint Rest Town
+Yglie			ch300078	1972840988	Flambearer Palace
+Yolanda			ch300933	3894855646	Bakbattahl
+Yuna			ch300930	3555706525	Bakbattahl
+Zachary			ch300363	371494753	Excavation Site
+Zaft			ch300847	3516404293	Geyser Hamlet
+Zekloa			ch300592	2497495173	Sacred Arbor
+Zellin			ch300906	3251146495	Checkpoint Rest Town
+Zeltas			ch300594	8832784		Nameless Village
+Zennan			ch300372	3516464060	Vernworth
+Zepet			ch300756	2519728590	Excavation Site
+Zeplin			ch300859	2898973502	Checkpoint Rest Town
+Zettra			ch300692	4261562349	Vernworth
+Zofie			ch300682	4270274342	Borderwatch Outpost
+Zoie			ch300551	3542581309	Bakbattahl
+Zonna			ch300860	1718084207	Bakbattahl
+Zoran			ch300147	3066725970	Harve
+Zuchna			ch300835	2613041949	Wandering
+Zyanya			ch300631	1373371020	Wandering
